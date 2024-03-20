@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Olu' Mabogunje
 #### IT Service Manager :: Data Analyst :: Developer :: Content Creator
-![IT Service Manager :: Data Analyst :: Developer :: Content Creator](https://twitter.com/dageenius/header_photo)
+![IT Service Manager :: Data Analyst :: Developer :: Content Creator](https://pbs.twimg.com/profile_banners/123693137/1710957803/1080x360)
 
 I am an experienced IT professional with several years industry experience.  
 
