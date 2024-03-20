@@ -6,7 +6,7 @@ I am an experienced IT professional with several years industry experience.
 
 Skills: HTML / CSS / PYTHON / POWER BI / SQL / ADVANCED EXCEL
 
-- 🔭 I’m currently working on internconnec.ng 
+- 🔭 I’m currently working on internconnect.ng 
 - 🌱 I’m currently learning Data Science 
 - 😄 Pronouns: Him/He 
 
