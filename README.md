@@ -8,7 +8,7 @@ Skills: HTML / CSS / PYTHON / POWER BI / SQL / ADVANCED EXCEL
 
 - 🔭 I’m currently working on internconnect.ng 
 - 🌱 I’m currently learning Data Science 
-- 😄 Pronouns: Him/He 
+- 😄 Pronouns: Him/He/His 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/omabogun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/olumabogunje/)  
