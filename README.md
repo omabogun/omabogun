@@ -8,7 +8,7 @@ I am an IT professional with over a decade years of experience.  I have worked a
 
 
 #### Skills and Experience: 
-* PYTON
+* PYTHON
 * SQL
 * POWER BI
 * HTML
