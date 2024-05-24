@@ -29,7 +29,17 @@ I am an IT professional with over a decade years of experience.  I have worked i
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+#
 
+### Projects:
+
+<a href=""><img src="https://github.com/omabogun/Data-Analysis_Projects/blob/main/images/thesocialbuzzproject.jpg" 
+alt="IMAGE ALT TEXT HERE" width="330" height="330" border="10" /></a>
+<a href=""><img src="https://github.com/omabogun/Data-Analysis_Projects/blob/main/images/cogrammar-hyperiondev.jpg" 
+alt="IMAGE ALT TEXT HERE" width="330" height="330" border="10" /></a>
+<a href=""><img src="https://github.com/omabogun/ITSM/blob/main/images/servicemanagement.jpg" 
+alt="IMAGE ALT TEXT HERE" width="330" height="330" border="10" /></a>
+<br />
 #
 
 #### Skills and Experience: 
