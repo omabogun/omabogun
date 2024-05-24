@@ -34,11 +34,11 @@ I am an IT professional with over a decade years of experience.  I have worked i
 ### Projects:
 
 <a href=""><img src="https://github.com/omabogun/Data-Analysis_Projects/blob/main/images/thesocialbuzzproject.jpg" 
-alt="IMAGE ALT TEXT HERE" width="330" height="330" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="33%" height="Auto" border="10" /></a>
 <a href=""><img src="https://github.com/omabogun/Data-Analysis_Projects/blob/main/images/cogrammar-hyperiondev.jpg" 
-alt="IMAGE ALT TEXT HERE" width="330" height="330" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="33%" height="Auto" border="10" /></a>
 <a href=""><img src="https://github.com/omabogun/ITSM/blob/main/images/servicemanagement.jpg" 
-alt="IMAGE ALT TEXT HERE" width="330" height="330" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="33%" height="Auto" border="10" /></a>
 <br />
 #
 
